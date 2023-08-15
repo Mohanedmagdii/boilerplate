@@ -1,8 +1,0 @@
-hubspot stages webhook -- https://app.hubspot.com/developer/19623106/application/277072/webhooks
-
-
-zoho order creating API - upsert 
-
-https://www.zohoapis.com/crm/v2/{module_api_name}/upsert
-
-* Leads, Accounts, Contacts, Deals, Campaigns, Cases, Solutions, Products, Vendors, Price Books, Quotes, Sales Orders, Purchase Orders, Invoices, and Custom *
