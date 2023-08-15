@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "/home/mohaned/mohaned/SigmaPRO/hubspot/src/logs/error/.a8c747cbb8b5e5cf6eaf9491cf034ab15d57802e-audit.json",
+    "files": [
+        {
+            "date": 1617615936498,
+            "name": "/home/mohaned/mohaned/SigmaPRO/hubspot/src/logs/error/2021-04-05.error.log",
+            "hash": "6f21c69fb6bbf67ba03ae6fe57b7e247"
+        }
+    ]
+}
